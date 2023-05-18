@@ -23,7 +23,7 @@
               "state": {
                 "file": "README file.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -159,6 +159,7 @@
   },
   "active": "14a6b1995c600b4a",
   "lastOpenFiles": [
+    "Notion Page.md",
     "README file.md"
   ]
 }
