@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README file.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,7 +147,7 @@
   "active": "63dfc560687c88ef",
   "lastOpenFiles": [
     "README file.md",
-    "Untitled.md",
+    "GIS Jobs.md",
     "Notion Page.md",
     "Untitled.canvas"
   ]
