@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIS Learning/SQL/Resources.md",
+                "file": "GIS Learning/SQL/Resource and Documentations.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e5ddbedf162c041",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS Learning/SQL/Resources.md",
+                "file": "GIS Learning/SQL/Resource and Documentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS Learning/SQL/Resources.md",
+                "file": "GIS Learning/SQL/Resource and Documentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS Learning/SQL/Resources.md"
+                "file": "GIS Learning/SQL/Resource and Documentations.md"
               }
             }
           }
@@ -147,10 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78ac7de0a9206023",
+  "active": "3e5ddbedf162c041",
   "lastOpenFiles": [
-    "GIS Learning/Introduction to Advanced GIS.md",
+    "Template Folder/Resource and Documentations.md",
+    "GIS Learning/SQL/Resource and Documentations.md",
     "GIS Learning/SQL/Resources.md",
+    "Template Folder",
+    "GIS Learning/Introduction to Advanced GIS.md",
     "GIS Learning/AutoCAD and Revit",
     "GIS Learning/kepler.GL",
     "GIS Learning/Python for Deep Learning",
