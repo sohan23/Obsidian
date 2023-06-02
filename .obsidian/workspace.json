@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "78ac7de0a9206023",
   "lastOpenFiles": [
     "GIS Learning/AutoCAD and Revit",
     "GIS Learning/kepler.GL",
