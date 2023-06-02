@@ -12,8 +12,9 @@
 
 #### List of things which has to be learned
 
-- [ ] Python for GIS
-- [ ] SQL
-- [ ] kepler.GL
-- [ ] Python for Deep Learning
-- [ ] 
+- [p] Python for GIS 
+- [p] SQL
+- [p] kepler.GL
+- [p] Python for Deep Learning
+- [p] AutoCAD and Revit
+- [?] Rhino  
