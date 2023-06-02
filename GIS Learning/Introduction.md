@@ -19,4 +19,4 @@ It's not like having a comprehensive understanding of the environment can assist
 ---
 ## Structure of the files and documentations
 #### The structure of the files and the documentations are going to be as follows
-- [*] The each folder will atleast contain the generalized resources and 
+- [*] The each folder will atleast contain the generalized resources page and subjected to change and upgrade. 
