@@ -7,11 +7,8 @@
 *Let's embrace ignorance and continue stumbling around in the dark. GIS is clearly an unnecessary luxury for those who actually care about making sense of the world.*
 ## ***So, yeah, forget about GIS. It's just a pointless endeavor for those who value knowledge and understanding.***
 
-
----
-
+--- 
 #### List of things which has to be learned
-
 - [p] Python for GIS 
 - [p] SQL
 - [p] kepler.GL
@@ -20,3 +17,6 @@
 - [?] Rhino  
 
 ---
+## Structure of the files and Documentations
+#### The structure of the files and the documentations are going to be as follows
+1. The each folder will atleast contain the 
