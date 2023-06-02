@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README file.md",
+                "file": "GIS Learning/Introduction.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README file.md",
+                "file": "GIS Learning/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README file.md",
+                "file": "GIS Learning/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README file.md"
+                "file": "GIS Learning/Introduction.md"
               }
             }
           }
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "78ac7de0a9206023",
   "lastOpenFiles": [
     "README file.md",
+    "GIS Learning/Introduction.md",
+    "GIS Learning",
     "GIS Jobs.md",
     "Notion Page.md",
     "Untitled.canvas"
