@@ -7,5 +7,13 @@
 *Let's embrace ignorance and continue stumbling around in the dark. GIS is clearly an unnecessary luxury for those who actually care about making sense of the world.*
 ## ***So, yeah, forget about GIS. It's just a pointless endeavor for those who value knowledge and understanding.***
 
-# Here we are going to talk about the GIS and learn the neceesary things and we will also try to build a project.
 
+---
+
+#### List of things which has to be learned
+
+- [ ] Python for GIS
+- [ ] SQL
+- [ ] kepler.GL
+- [ ] Python for Deep Learning
+- [ ] 
