@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIS Learning/Introduction.md",
+                "file": "GIS Learning/SQL/Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS Learning/Introduction.md",
+                "file": "GIS Learning/SQL/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS Learning/Introduction.md",
+                "file": "GIS Learning/SQL/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS Learning/Introduction.md"
+                "file": "GIS Learning/SQL/Resources.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "78ac7de0a9206023",
   "lastOpenFiles": [
+    "GIS Learning/Introduction to Advanced GIS.md",
+    "GIS Learning/SQL/Resources.md",
     "GIS Learning/AutoCAD and Revit",
     "GIS Learning/kepler.GL",
     "GIS Learning/Python for Deep Learning",
     "GIS Learning/SQL",
     "GIS Learning/Python for GIS",
     "README file.md",
-    "GIS Learning/Introduction.md",
     "GIS Learning",
     "GIS Jobs.md",
     "Notion Page.md",
