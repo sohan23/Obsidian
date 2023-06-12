@@ -73,10 +73,9 @@ Calculating the Urban Heat Island (UHI) effect involves comparing temperature me
 
    b. Temporal analysis: Collect temperature data over an extended period, such as days, weeks, or months, and analyze the average temperature differences between the urban and rural areas during different times of the day (e.g., daytime and nighttime). This approach provides a more comprehensive understanding of UHI patterns.
 
-4. UHI intensity calculation: The UHI intensity is typically calculated by subtracting the rural temperature from the urban temperature. The formula is as follows:
+4. UHI intensity calculation: The UHI intensity is typically calculated by subtracting the rural temperature from the urban temperature. The formula is as follows: 
    $$UHI \space Intensity = Urban \space Temperature - Rural \space Temperature$$
-
-   The resulting value represents the additional temperature observed in the urban area compared to the rural area.
+   The resulting value represents the additional temperature observed in the urban area compared to the rural area. ^UHICalculation
 
 5. Statistical analysis: Perform statistical tests to assess the significance of the temperature differences and determine the overall UHI effect. Statistical methods like t-tests or analysis of variance (ANOVA) can be employed to evaluate the significance of the temperature variations between urban and rural areas.
 
