@@ -11,11 +11,30 @@
             "id": "84372afee0d221f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GIS Learning/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9643ab99c21cb4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Untitled.md"
+              }
             }
           }
         ],
@@ -138,14 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84372afee0d221f1",
+  "active": "63dfc560687c88ef",
   "lastOpenFiles": [
+    "GIS Learning/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
+    "Projects/Untitled.md",
+    "Projects",
     "Mind to Learn Coding Effectively.md",
     "GIS Learning/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
     "GIS Learning/Python for GIS/Detailed Map of Python in GIS.md",
     "GIS Learning/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "GIS Learning/Python for GIS/Courses and Resources for Geospatial Python.md",
-    "GIS Learning/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
     "Untitled.canvas",
     "GIS Learning/Introduction to Advanced GIS.md",
     "README file.md",
