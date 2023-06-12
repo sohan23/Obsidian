@@ -1,4 +1,4 @@
-# Electricity Consumption Datasets
+# [[Electricity Consumption]] Datasets
 
 #### Government agencies: 
 Government bodies responsible for energy or statistical data often provide datasets on electricity consumption. Check the websites of energy departments or statistical agencies at the national, state, or local levels. Examples include the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/), [European Union Open Data Portal](https://data.europa.eu/euodp/en/home), and national statistical offices.
@@ -23,7 +23,7 @@ When accessing these datasets, be sure to review the terms of use and any licens
 It's worth mentioning that the availability and extent of datasets may vary depending on the region, granularity, and specific parameters of interest.
 
 ---
-# UHI Datasets
+# [[Urban Heat Island]] Datasets
 
 #### National Centers for Environmental Information (NCEI): 
 The NCEI provides access to a variety of climate and weather datasets, including those related to urban heat island (UHI). Visit the [NCEI Climate Data Online (CDO)](https://www.ncdc.noaa.gov/cdo-web/) portal to search for UHI datasets. You can explore various temperature measurements and urban-rural comparisons.
