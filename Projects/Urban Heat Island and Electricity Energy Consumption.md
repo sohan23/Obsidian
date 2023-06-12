@@ -1,6 +1,6 @@
 **Urban heat island (UHI)** refers to the phenomenon where urban areas experience higher temperatures compared to surrounding rural areas. This temperature difference is primarily caused by human activities and the built environment in cities. Electricity energy consumption plays a significant role in contributing to the **UHI** effect.
 
-## Effects of **Electricity Consumption** on **UHI**
+## Effects of [[Electricity Consumption]] on **UHI**
 The effects of electricity energy consumption on the urban heat island (UHI) phenomenon can be explained in greater detail. Here are some key points:
 
 ### Heat generation from power plants: 
