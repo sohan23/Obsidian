@@ -37,7 +37,8 @@ OpenStreetMap provides crowd-sourced geospatial data, including information on l
 #### Remote sensing datasets: 
 Satellite-based remote sensing data can be valuable for studying UHI. Datasets such as Landsat, MODIS, and Sentinel offer thermal infrared bands that can help quantify land surface temperature differences between urban and rural areas. Access these datasets through platforms like [Google Earth Engine](https://earthengine.google.com/) or specific data providers' websites. 
 
-Check - ***NASA ARSET Program*** where they have used **Landsat** data especially **Band-10** for the Calculation of UHI. 
+Check - ***NASA ARSET Program*** where they have used **Landsat** data especially **Band-10** for the [[Urban Heat Island#^32c089]]
+
 
 Local government or research institution websites: Local governments and research institutions often conduct UHI studies and may make their datasets available on their websites. Check the websites of city planning departments, environmental agencies, or universities in your region of interest for UHI-related datasets.
 

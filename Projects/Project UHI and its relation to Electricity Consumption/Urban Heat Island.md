@@ -58,6 +58,9 @@ Shifting to renewable energy sources reduces greenhouse gas emissions and waste 
 By adopting these strategies, cities can reduce the UHI effect, enhance urban livability, improve public health, and promote environmental sustainability.
 
 ## Calculation of UHI
+
+^32c089
+
 Calculating the Urban Heat Island (UHI) effect involves comparing temperature measurements between urban and rural areas. Here's a simplified explanation of how UHI can be calculated:
 
 1. Select study areas: Identify an urban area of interest and a nearby rural area. Ensure that the rural area represents a non-urbanized or less-developed region, ideally with similar geographic and climatic characteristics.
