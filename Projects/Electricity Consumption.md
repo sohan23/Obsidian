@@ -3,7 +3,7 @@ Electricity consumption refers to the amount of electrical energy used by indivi
 
 ### Measurement: 
 Electricity consumption is typically measured in kilowatt-hours (kWh). A kilowatt-hour represents the amount of energy consumed when one kilowatt (1 kW) of power is used for one hour. This unit is commonly used for billing and tracking purposes.
-
+$$1\space \text{kWh} = 1000\space \text{Watt} \times 1 \text{hour}$$
 
 ### Residential electricity consumption: 
 Residential electricity consumption refers to the amount of electricity used by households for various purposes, including lighting, heating, cooling, cooking, and operating electrical appliances and devices. The consumption patterns vary based on factors such as household size, climate, energy efficiency measures, and lifestyle choices.
