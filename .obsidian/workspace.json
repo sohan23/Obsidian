@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Urban Heat Island and Electricity Energy Consumption.md",
+                "file": "Projects/Datasets to be Used.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c1b287ad16d8f5e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 327.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Datasets to be Used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Datasets to be Used.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Datasets to be Used.md"
+              }
             }
           }
         ],
@@ -152,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c1b287ad16d8f5e",
+  "active": "63dfc560687c88ef",
   "lastOpenFiles": [
+    "Projects/Project UHI and its relation to Electricity Consumption",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Projects/Datasets to be Used.md",
     "Projects/Urban Heat Island.md",
     "Projects/Urban Heat Island and Electricity Energy Consumption.md",
     "Projects/Electricity Consumption.md",
@@ -164,7 +163,6 @@
     "GIS Learning/Python for GIS/Detailed Map of Python in GIS.md",
     "GIS Learning/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "GIS Learning/Python for GIS/Courses and Resources for Geospatial Python.md",
-    "Untitled.canvas",
     "GIS Learning/Introduction to Advanced GIS.md",
     "README file.md",
     "GIS Learning/SQL/Resource and Documentations.md",
