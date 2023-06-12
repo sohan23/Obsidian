@@ -1,6 +1,4 @@
-# Roadmap to Learning Geospatial Analysis Connecting to Geo-AI
-
-The Roadmap to Learning Geospatial Analysis Connecting to GeoI is a comprehensive guide for individuals seeking to hone their skills in geospatial analysis and connect with the rapidly growing field of Geo-AI. This roadmap offers a step-by-step approach to learning geospatial analysis and provides guidance on the tools and required to master it. By incorporating the emerging field of Geo-AI, the roadmap provides a pathway for learning how to combine geospatial analysis with intelligence to solve complex problems. The roadmap covers a range of topics, including data visualization, spatial data mining, spatial statistics, learning, and deep learning. It is an invaluable resource for those looking to enhance their knowledge of geospatial analysis and stay on the cutting edge technological advancements in the field.
+The Roadmap to Learning Geospatial Analysis Connecting to Geo-AI is a comprehensive guide for individuals seeking to hone their skills in geospatial analysis and connect with the rapidly growing field of Geo-AI. This roadmap offers a step-by-step approach to learning geospatial analysis and provides guidance on the tools and required to master it. By incorporating the emerging field of Geo-AI, the roadmap provides a pathway for learning how to combine geospatial analysis with intelligence to solve complex problems. The roadmap covers a range of topics, including data visualization, spatial data mining, spatial statistics, learning, and deep learning. It is an invaluable resource for those looking to enhance their knowledge of geospatial analysis and stay on the cutting edge technological advancements in the field.
 
 ## Introduction
 
@@ -42,11 +40,11 @@ Statistics is an essential concept geospatial analysis connecting to Geo-AI. It 
 
 Descriptive statistics is an important branch of statistics that deals with the analysis and interpretation of different of data. It mainly involves the use of various measures to and describe the features of a data set. These can include central tendencies like the, median, and mode as well as measures of dispersion as range, variance, and standard deviation. Descriptive statistics also entail the creation of plots and charts help visualize the data and any patterns or trend that may exist. With these, researchers and analysts can better and communicate the characteristics of particular dataset, making it an indispensable part of anyospatial analysis project.
 
-Mean, Median, Mode
+###### Mean, Median, Mode
 
 Mean, median, and mode are statistical measures used to represent data in a variety of contexts The mean is the average of a set of numbers, calculated by adding all the numbers together and by the total count. The median is the middle value of set of numbers when they are arranged in order, with half numbers falling above and half falling below. The mode is the most frequently occurring value in a set of numbers. These measures can be used to the central tendency of a set and provide valuable insights into patterns or trends that may be present. In the context of geospatial analysis and Geo-AI, mean,, and mode can be used to analyze spatial data and provide insights into patterns or trends that may be present geographic locations.
 
-Variance Standard Deviation
+###### Variance Standard Deviation
 
 Variance and standard deviation are statistical measures used to describe the of a dataset. Variance measures how much the individual data points deviate from the mean of dataset, while standard deviation is simply the square root of variance. In other words, standard deviation represents the typical distance between each data point and the mean. These measures are commonly used in geospatial analysis to quantify the variability in spatial features such elevation, temperature, or precipitation. Understanding variance and standard deviation is essential for accurately interpreting geospatial data and identifying patterns or anomalies in the dataset.
 
@@ -58,7 +56,7 @@ Inferential statistics is branch of statistics that involves the use of data to 
 
 Inferential statistics is branch of statistics that aims to make predictions or inferences about population based on a sample of data. Hypothesis testing is fundamental concept in inferential, where a null hypothesis is formulated and tested against an alternative hypothesis. The goal of hypothesis testing is to determine a result is statistically significant or whether it is likely due to chance. It involves calculating a p-value, which represents probability of obtaining the observed result or a more extreme result, assuming the null hypothesis is true. If the p-value is below a predetermined significance level, 0.05, the null hypothesis is rejected in favor of the alternative hypothesis. Hypothesis testing is an important tool that can be in geospatial analysis to gain insights and make informed.
 
-p-value
+###### p-value
 
 The p-value, short for probability value, is a statistical measure used in hypothesis testing to whether an observed result is statistically significant or occurred by chance. It represents the probability of obtaining a result equal to or more extreme than the actual one if the null hypothesis (the default assumption) were. A small p-value (symbolized by p<0.05) suggests that it is unlikely to obtain such a result by chance, and hence the null hypothesis can be rejected in of the alternative hypothesis. The significance level for rejecting the null is often set at 5% or less, indicating that the chance of a false positive is than 5%. The p-value is an important tool for making informed decisions based on and avoiding erroneous conclusions.
 
