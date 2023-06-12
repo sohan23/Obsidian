@@ -24,13 +24,8 @@
             "id": "3c1b287ad16d8f5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Urban Heat Island.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Urban Heat Island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Urban Heat Island.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Urban Heat Island.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,8 +154,8 @@
   },
   "active": "3c1b287ad16d8f5e",
   "lastOpenFiles": [
-    "Projects/Urban Heat Island and Electricity Energy Consumption.md",
     "Projects/Urban Heat Island.md",
+    "Projects/Urban Heat Island and Electricity Energy Consumption.md",
     "Projects/Electricity Consumption.md",
     "GIS Learning/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
     "Projects",
