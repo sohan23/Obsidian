@@ -15,11 +15,11 @@ Let's embrace ignorance and continue stumbling around in the dark. GIS is clearl
 - [p] SQL
 - [p] kepler.GL
 - [p] Python for Deep Learning
-- [p] AutoCAD and Revit
+- [?] AutoCAD and Revit
 - [?] Rhino  
 
 ---
 ## Structure of the files and documentations
 #### The structure of the files and the documentations are going to be as follows
 - [*] The each folder will atleast contain the generalized resources page and subjected to change and upgrade. 
-- [*] Then there will be other files conatining actual documentaitons and learnings.  
+- [*] Then there will be other files containing actual documentations and learnings.  

@@ -11,13 +11,8 @@
             "id": "78ac7de0a9206023",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIS Learning/SQL/Resource and Documentations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS Learning/SQL/Resource and Documentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS Learning/SQL/Resource and Documentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GIS Learning/SQL/Resource and Documentations.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,6 +141,10 @@
   "active": "78ac7de0a9206023",
   "lastOpenFiles": [
     "GIS Learning/Introduction to Advanced GIS.md",
+    "GIS Learning/Python for GIS/Courses and Resources for Geospatial Python.md",
+    "README file.md",
+    "GIS Learning/Python for GIS/Detailed Map of Python in GIS.md",
+    "GIS Learning/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
     "GIS Learning/SQL/Resource and Documentations.md",
     "Template Folder/Resource and Documentations.md",
     "GIS Learning/SQL/Resources.md",
@@ -159,7 +154,6 @@
     "GIS Learning/Python for Deep Learning",
     "GIS Learning/SQL",
     "GIS Learning/Python for GIS",
-    "README file.md",
     "GIS Learning",
     "GIS Jobs.md",
     "Notion Page.md",
