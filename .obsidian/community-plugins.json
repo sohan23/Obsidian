@@ -1,3 +1,17 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "obsidian-outliner",
+  "obsidian-mind-map",
+  "obsidian-annotator",
+  "oz-image-plugin",
+  "nldates-obsidian",
+  "obsidian-emoji-toolbar",
+  "recent-files-obsidian",
+  "omnisearch",
+  "obsidian-banners",
+  "text-extractor",
+  "better-word-count"
 ]
