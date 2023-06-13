@@ -87,12 +87,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 270.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -151,9 +150,17 @@
                 "file": "Projects/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md"
               }
             }
+          },
+          {
+            "id": "175c6957d19e8a3f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,15 +174,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "16d1c867a6267329",
+  "active": "9643ab99c21cb4b7",
   "lastOpenFiles": [
+    "Projects/Project UHI and its relation to Electricity Consumption/ConnectedPapers-for-Study-on-Bangkok-its-Urban-Heat-Island-effect-and-the-Relationship-with-Electricity-Consumption-using-Geoinformatics.bib",
+    "Projects/Project UHI and its relation to Electricity Consumption/Unconfirmed 288611.crdownload",
     "Projects/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
+    "Projects/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
     "Projects/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
-    "Projects/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects/Project UHI and its relation to Electricity Consumption",
     "Untitled.canvas",
     "Untitled 1.canvas",
