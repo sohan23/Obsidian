@@ -15,7 +15,7 @@ Based on the provided transcript, here are some courses and resources related to
    - Documentation Library
    - Rating- 18/20 (Accessibility, Geo-focus, Clarity, and Completeness) - Intermediate
 **Leafmap**
-   - Description: A geospatial Python library maintained by Professor Kuo-Sheng Wu from the University of Tennessee. It provides a complete toolkit for working with raster and vector data, performing analyses, and creating maps. 
+   - Description: A geospatial Python library maintained by Professor Wu from the University of Tennessee. It provides a complete toolkit for working with raster and vector data, performing analyses, and creating maps. 
    - Check Youtube 
    - Rating- 20/20 (Accessibility, Geo-focus, Clarity, and Completeness) - Best!!
 **Geographic Data Science Course (University of Liverpool)**
