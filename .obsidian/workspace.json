@@ -15,8 +15,8 @@
               "state": {
                 "file": "Python GIS and Machine Learning Environment Diagram.canvas",
                 "viewState": {
-                  "x": 115.3200000000001,
-                  "y": -60.17999999999998,
+                  "x": -129.86999999999986,
+                  "y": -66.52000000000001,
                   "zoom": 0
                 }
               }
@@ -41,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -170,11 +170,12 @@
   },
   "active": "9643ab99c21cb4b7",
   "lastOpenFiles": [
-    "Python",
-    "Mind to Learn Coding Effectively.md",
+    "GIS Learning/Introduction to Advanced GIS.md",
     "Python GIS and Machine Learning Environment Diagram.canvas",
-    "GIS Learning/Python for GIS/Courses and Resources for Geospatial Python.md",
-    "GIS Learning/Python for GIS/Detailed Map of Python in GIS.md",
+    "GIS Learning/Python",
+    "Mind to Learn Coding Effectively.md",
+    "GIS Learning/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
+    "GIS Learning/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Projects/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
     "Projects/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
@@ -186,18 +187,16 @@
     "Projects/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
     "Projects/Project UHI and its relation to Electricity Consumption",
     "Untitled 1.canvas",
-    "GIS Learning/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
+    "GIS Learning/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
     "Projects",
-    "GIS Learning/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
-    "GIS Learning/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
-    "GIS Learning/Introduction to Advanced GIS.md",
+    "GIS Learning/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
+    "GIS Learning/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "README file.md",
     "GIS Learning/SQL/Resource and Documentations.md",
     "Template Folder/Resource and Documentations.md",
     "GIS Learning/SQL/Resources.md",
     "Template Folder",
     "GIS Learning/AutoCAD and Revit",
-    "GIS Learning/kepler.GL",
     "GIS Jobs.md",
     "Notion Page.md"
   ]

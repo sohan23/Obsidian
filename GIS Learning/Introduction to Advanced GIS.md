@@ -21,5 +21,5 @@ Let's embrace ignorance and continue stumbling around in the dark. GIS is clearl
 ---
 ## Structure of the files and documentations
 #### The structure of the files and the documentations are going to be as follows
-- [*] The each folder will atleast contain the generalized resources page and subjected to change and upgrade. 
+- [*] The each folder will at least contain the generalized resources page and subjected to change and upgrade. 
 - [*] Then there will be other files containing actual documentations and learnings.  
