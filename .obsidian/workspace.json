@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Python GIS and Machine Learning Environment Diagram.canvas",
+                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
                 "viewState": {
-                  "x": -129.86999999999986,
-                  "y": -66.52000000000001,
+                  "x": 185,
+                  "y": -100,
                   "zoom": 0
                 }
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python GIS and Machine Learning Environment Diagram.canvas",
+                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python GIS and Machine Learning Environment Diagram.canvas",
+                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python GIS and Machine Learning Environment Diagram.canvas"
+                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas"
               }
             }
           },
@@ -168,14 +168,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9643ab99c21cb4b7",
+  "active": "63dfc560687c88ef",
   "lastOpenFiles": [
-    "GIS Learning/Introduction to Advanced GIS.md",
-    "Python GIS and Machine Learning Environment Diagram.canvas",
-    "GIS Learning/Python",
+    "Learning Folder/Introduction to Advanced GIS.md",
+    "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
+    "Learning Folder/Python",
     "Mind to Learn Coding Effectively.md",
-    "GIS Learning/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
-    "GIS Learning/Python/Python for GIS/Detailed Map of Python in GIS.md",
+    "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
+    "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Projects/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
     "Projects/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
@@ -187,12 +187,12 @@
     "Projects/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
     "Projects/Project UHI and its relation to Electricity Consumption",
     "Untitled 1.canvas",
-    "GIS Learning/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
+    "Learning Folder/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
     "Projects",
-    "GIS Learning/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
-    "GIS Learning/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
+    "Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
+    "Learning Folder/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "README file.md",
-    "GIS Learning/SQL/Resource and Documentations.md",
+    "Learning Folder/SQL/Resource and Documentations.md",
     "Template Folder/Resource and Documentations.md",
     "GIS Learning/SQL/Resources.md",
     "Template Folder",
