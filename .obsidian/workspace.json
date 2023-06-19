@@ -11,14 +11,12 @@
             "id": "9643ab99c21cb4b7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
-                "viewState": {
-                  "x": 185,
-                  "y": -100,
-                  "zoom": 0
-                }
+                "file": "Learning Folder/Python/Codespace/README..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
+                "file": "Learning Folder/Python/Codespace/README..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
+                "file": "Learning Folder/Python/Codespace/README..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas"
+                "file": "Learning Folder/Python/Codespace/README..md"
               }
             }
           },
@@ -168,13 +166,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "9643ab99c21cb4b7",
   "lastOpenFiles": [
+    "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
+    "Learning Folder/Python/Codespace/README..md",
     "Learning Folder/SQL/Codespace",
     "Learning Folder/Python/Codespace",
     "Untitled/Untitled",
     "Learning Folder/Introduction to Advanced GIS.md",
-    "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Learning Folder/Python",
     "Mind to Learn Coding Effectively.md",
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
@@ -191,7 +190,6 @@
     "Projects Folder/Project UHI and its relation to Electricity Consumption",
     "Untitled 1.canvas",
     "Learning Folder/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
-    "Projects Folder",
     "Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
     "Learning Folder/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "README file.md",
