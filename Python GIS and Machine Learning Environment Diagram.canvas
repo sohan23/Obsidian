@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5f82b3b83d76757c","x":-380,"y":-120,"width":250,"height":60,"type":"text","text":"**Editor** - *VSCode* "},
+		{"id":"913d5397731631bd","x":-20,"y":-460,"width":250,"height":60,"type":"text","text":"**Compiler** - *Google Colab* "},
+		{"id":"73ff0317dfd7b584","x":-20,"y":200,"width":250,"height":60,"type":"text","text":"**Git Repo** - *Github using Git* "}
+	],
+	"edges":[
+		{"id":"edde3bc9418985b4","fromNode":"5f82b3b83d76757c","fromSide":"top","toNode":"913d5397731631bd","toSide":"left","label":"Push and running codes"},
+		{"id":"8a2b8150c8d48b50","fromNode":"5f82b3b83d76757c","fromSide":"bottom","toNode":"73ff0317dfd7b584","toSide":"left"},
+		{"id":"78eeb57b4ee023f6","fromNode":"913d5397731631bd","fromSide":"bottom","toNode":"5f82b3b83d76757c","toSide":"right","label":"Results and final codes"},
+		{"id":"58ca24276c28db25","fromNode":"73ff0317dfd7b584","fromSide":"right","toNode":"913d5397731631bd","toSide":"right","label":"Already connected and can be saved directly here!"},
+		{"id":"c30a37e7c148d9a5","fromNode":"73ff0317dfd7b584","fromSide":"left","toNode":"5f82b3b83d76757c","toSide":"bottom","label":"Track changes and updates"}
+	]
+}
