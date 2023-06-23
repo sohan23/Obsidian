@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md",
+                "file": "Learning Folder/Python/Codespace/README..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md",
+                "file": "Learning Folder/Python/Codespace/README..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md",
+                "file": "Learning Folder/Python/Codespace/README..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md"
+                "file": "Learning Folder/Python/Codespace/README..md"
               }
             }
           },
@@ -177,13 +177,13 @@
   },
   "active": "85633a7e669e03db",
   "lastOpenFiles": [
+    "Jobs and PhDs/Relevant Informations.md",
     "tree/master/Template%20Folder/2.ipynb",
     "tree/master/Template%20Folder",
     "tree/master",
     "tree",
     "Template Folder/4.ipynb",
     "Learning Folder/Google Data Analytics Course/Untitled.md",
-    "Jobs and PhDs/Relevant Informations.md",
     "Jobs and PhDs",
     "Learning Folder/Python/Codespace/README..md",
     "Learning Folder/Python/Codespace/Hello World.ipynb",
@@ -192,7 +192,6 @@
     "Learning Folder/Python/Codespace",
     "Untitled/Untitled",
     "Learning Folder/Introduction to Advanced GIS.md",
-    "Learning Folder/Python",
     "Mind to Learn Coding Effectively.md",
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
     "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
