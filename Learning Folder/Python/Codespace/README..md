@@ -8,7 +8,7 @@
 
 ##### Important - The primary compiler run will be on Google Colab (*a jupyter notebook from google*) and having massive libraires so all of them are not going to be uploaded in the GitHub. Only specific libraries are placed for this.
 ---
-# Important: Setting up Jupyter Notebook and connecting to a l
+# Important: Use Google Colab for best experience.
 ---
 # Setting up python env in AWS
 Certainly! Here's a step-by-step guide with detailed explanations on setting up a Python environment similar to Google Colab on AWS:

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Folder/Python/Codespace/README..md",
+                "file": "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Folder/Python/Codespace/README..md",
+                "file": "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Folder/Python/Codespace/README..md",
+                "file": "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Folder/Python/Codespace/README..md"
+                "file": "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "85633a7e669e03db",
   "lastOpenFiles": [
+    "Learning Folder/Python/Codespace/README..md",
     "Jobs and PhDs/Relevant Informations.md",
     "tree/master/Template%20Folder/2.ipynb",
     "tree/master/Template%20Folder",
@@ -185,7 +186,6 @@
     "Template Folder/4.ipynb",
     "Learning Folder/Google Data Analytics Course/Untitled.md",
     "Jobs and PhDs",
-    "Learning Folder/Python/Codespace/README..md",
     "Learning Folder/Python/Codespace/Hello World.ipynb",
     "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Learning Folder/SQL/Codespace",
