@@ -49,7 +49,18 @@ To understand data structures, there are several excellent resources available t
    - LeetCode (www.leetcode.com): Offers a vast collection of coding problems with a focus on data structures and algorithms.
    - HackerRank (www.hackerrank.com): Provides coding challenges that cover different aspects of data structures and algorithms.
 
-5. Interactive Visualizations:
+1. Interactive Visualizations:
    - Visualgo (visualgo.net): A website that provides animated visualizations of various data structures and algorithms.
    - Data Structure Visualizations by USFCA (www.cs.usfca.edu/~galles/visualization): Another collection of interactive visualizations for different data structures.
+
+There are four basic type of data types used in a program.
+
+| Data type name | Data Type            | Example     |
+|:--------------:| -------------------- | ----------- |
+|      **int**       | Whole integer values | 4           |
+|     **float**      | Decimal values       | 0.5         |
+|      **str**       | Character string     | 'Four'      |
+|      **bool**      | True/False values    | True, False |
+
+
 ---

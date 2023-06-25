@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md",
+                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md",
+                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md",
+                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs and PhDs/Relevant Informations.md"
+                "file": "Learning Folder/Python/Codespace/A taste of Python.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,8 +184,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "85633a7e669e03db",
   "lastOpenFiles": [
+    "Jobs and PhDs/Relevant Informations.md",
     "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
     "Learning Folder/Python/PDF/Unconfirmed 701850.crdownload",
     "Learning Folder/Python/PDF",
@@ -192,7 +194,6 @@
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
     "Learning Folder/Python/Codespace/First_Notebook.ipynb",
     "Learning Folder/Python/Codespace/README..md",
-    "Jobs and PhDs/Relevant Informations.md",
     "tree/master/Template%20Folder/2.ipynb",
     "tree/master/Template%20Folder",
     "tree/master",
@@ -200,7 +201,6 @@
     "Template Folder/4.ipynb",
     "Learning Folder/Google Data Analytics Course/Untitled.md",
     "Jobs and PhDs",
-    "Learning Folder/Python/Codespace/Hello World.ipynb",
     "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Learning Folder/Introduction to Advanced GIS.md",
     "Mind to Learn Coding Effectively.md",
