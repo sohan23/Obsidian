@@ -27,3 +27,29 @@ In the python program simply assigning value to variables is straightforward. To
 ---
 # Data Types
 (**A important topic to understand**) - Book Suggestion - ***Introduction To Algorithms, Third Edition***
+### Additional information to understand data types-
+To understand data structures, there are several excellent resources available that provide comprehensive explanations and examples. Here are some of the best resources to help you learn and understand data structures:
+
+1. Books:
+   - "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
+   - "Data Structures and Algorithms in Python" by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.
+   - "Algorithms, Part I" and "Algorithms, Part II" by Robert Sedgewick and Kevin Wayne.
+
+2. Online Courses:
+   - Coursera: "Algorithms, Part I" and "Algorithms, Part II" offered by Princeton University.
+   - edX: "Introduction to Data Structures" by UC San Diego.
+   - Udemy: "Data Structures and Algorithms: Deep Dive Using Java" by Tim Buchalka and Goran Lochert.
+
+3. Websites and Tutorials:
+   - GeeksforGeeks (www.geeksforgeeks.org): A popular platform with extensive coverage of data structures, algorithms, and coding problems.
+   - Tutorialspoint (www.tutorialspoint.com): Provides tutorials on various data structures with practical examples.
+   - Data Structures Easy to Advanced Course - Full Tutorial by freeCodeCamp (www.youtube.com/watch?v=RBSGKlAvoiM): A comprehensive video tutorial explaining data structures from beginner to advanced levels.
+
+4. Online Platforms for Coding Practice:
+   - LeetCode (www.leetcode.com): Offers a vast collection of coding problems with a focus on data structures and algorithms.
+   - HackerRank (www.hackerrank.com): Provides coding challenges that cover different aspects of data structures and algorithms.
+
+5. Interactive Visualizations:
+   - Visualgo (visualgo.net): A website that provides animated visualizations of various data structures and algorithms.
+   - Data Structure Visualizations by USFCA (www.cs.usfca.edu/~galles/visualization): Another collection of interactive visualizations for different data structures.
+---
