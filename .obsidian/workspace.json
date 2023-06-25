@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -164,11 +165,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +184,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "85633a7e669e03db",
+  "active": "175c6957d19e8a3f",
   "lastOpenFiles": [
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
     "Learning Folder/Python/Codespace/A taste of Python.md",
