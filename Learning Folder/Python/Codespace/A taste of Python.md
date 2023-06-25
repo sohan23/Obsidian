@@ -23,3 +23,7 @@
 > as simply can be put, like in algebra variables are such expressions which doesn't have any pre-defined values, rather the other definitive values can be stored and used for the calculations.
 
 In the python program simply assigning value to variables is straightforward. To assign a value, simply **`variable_name = value`**.
+
+---
+# Data Types
+(**A important topic to understand**) - Book Suggestion - ***Introduction To Algorithms, Third Edition***
