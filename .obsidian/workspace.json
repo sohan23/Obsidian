@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
+                "file": "Jobs and PhDs/Relevant Informations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
+                "file": "Jobs and PhDs/Relevant Informations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
+                "file": "Jobs and PhDs/Relevant Informations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md"
+                "file": "Jobs and PhDs/Relevant Informations.md"
               }
             }
           },
@@ -184,10 +183,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "175c6957d19e8a3f",
+  "active": "63dfc560687c88ef",
   "lastOpenFiles": [
-    "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
+    "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
+    "Learning Folder/Python/PDF/Unconfirmed 701850.crdownload",
+    "Learning Folder/Python/PDF",
     "Learning Folder/Python/Codespace/A taste of Python.md",
+    "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
     "Learning Folder/Python/Codespace/First_Notebook.ipynb",
     "Learning Folder/Python/Codespace/README..md",
     "Jobs and PhDs/Relevant Informations.md",
@@ -200,8 +202,6 @@
     "Jobs and PhDs",
     "Learning Folder/Python/Codespace/Hello World.ipynb",
     "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
-    "Learning Folder/SQL/Codespace",
-    "Learning Folder/Python/Codespace",
     "Learning Folder/Introduction to Advanced GIS.md",
     "Mind to Learn Coding Effectively.md",
     "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
