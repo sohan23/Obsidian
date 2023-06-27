@@ -80,9 +80,3 @@ indices(list[A, B, C, D])
 Why *D* doesn't give -1? well if we start with left side indices then it will count from there. Otherwise, if it starts from the other side then it will give us -1.
 
 Lists can also be consists of more than one data type.
-
-```python
-"""
-Let us 
-"""
-```
