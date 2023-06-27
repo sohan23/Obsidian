@@ -68,12 +68,21 @@ There are four basic type of data types used in a program.
 > Lists are nothing but arrays of values, and indices are the position of certain value on a list.
 
 Let's say 
-```
+```python
 # there is a list called A,B,C,D
 list = [A, B, C, D]
 # here there are four values in the list
-# now the indices always startswith 0 and ends with -1
+# now the indices always starts with 0 and ends point starts with -1
 # So, the indices of the list will be
 indices(list[A, B, C, D])
-0, 1, 2, -1
+0, 1, 2, 5
+```
+Why *D* doesn't give -1? well if we start with left side indices then it will count from there. Otherwise, if it starts from the other side then it will give us -1.
+
+Lists can also be consists of more than one data type.
+
+```python
+"""
+Let us 
+"""
 ```
