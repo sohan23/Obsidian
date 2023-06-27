@@ -62,5 +62,18 @@ There are four basic type of data types used in a program.
 |      **str**       | Character string     | 'Four'      |
 |      **bool**      | True/False values    | True, False |
 
-
 ---
+# Lists and Indices
+
+> Lists are nothing but arrays of values, and indices are the position of certain value on a list.
+
+Let's say 
+```
+# there is a list called A,B,C,D
+list = [A, B, C, D]
+# here there are four values in the list
+# now the indices always startswith 0 and ends with -1
+# So, the indices of the list will be
+indices(list[A, B, C, D])
+0, 1, 2, -1
+```
