@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad8d19ba96b1562c",
+        "id": "cf8809b4027fc2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "85633a7e669e03db",
+            "id": "3c91d05b81e6a2cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
+                "file": "2023-06-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
+                "file": "2023-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md",
+                "file": "2023-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Folder/Python/Codespace/A taste of Python.md"
+                "file": "2023-06-27.md"
               }
             }
           },
@@ -156,12 +155,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +173,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "85633a7e669e03db",
+  "active": "63dfc560687c88ef",
   "lastOpenFiles": [
+    "Untitled",
+    "2023-06-26.md",
+    "2023-06-25.md",
+    "2023-06-27.md",
+    "Projects Folder/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
+    "Learning Folder/Python/Codespace/A taste of Python.md",
     "Learning Folder/Python/Codespace/exercise-2-sohan23/Exercise-2.ipynb",
     "Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
     "Learning Folder/Python/Codespace/exercise-1-sohan23/Exercise_1.ipynb",
@@ -185,7 +189,6 @@
     "Learning Folder/Python/Codespace/exercise-2-sohan23",
     "Learning Folder/Python/Codespace/Exercise_2.ipynb",
     "Pasted image 20230627105959.png",
-    "Learning Folder/Python/Codespace/A taste of Python.md",
     "Learning Folder/Python/Codespace/python-environments/postBuild",
     "Learning Folder/Python/Codespace/python-environments/geo-python-teacher.yml",
     "Learning Folder/Python/Codespace/python-environments/geo-python-student.yml",
@@ -203,7 +206,6 @@
     "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
-    "Projects Folder/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
     "Untitled 1.canvas",
     "Learning Folder/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
@@ -211,9 +213,6 @@
     "Learning Folder/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "README file.md",
     "Learning Folder/SQL/Resource and Documentations.md",
-    "Template Folder/Resource and Documentations.md",
-    "GIS Learning/SQL/Resources.md",
-    "GIS Jobs.md",
-    "Notion Page.md"
+    "Template Folder/Resource and Documentations.md"
   ]
 }
