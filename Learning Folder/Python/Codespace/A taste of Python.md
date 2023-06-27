@@ -81,3 +81,6 @@ Why *D* doesn't give -1? well if we start with left side indices then it will co
 
 Lists can also be consists of more than one data type.
 
+---
+## f-String formatting
+![[Pasted image 20230627105959.png]]

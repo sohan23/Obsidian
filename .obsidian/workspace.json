@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fe46dae7183638c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "85633a7e669e03db",
             "type": "leaf",
             "state": {
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +177,8 @@
   },
   "active": "85633a7e669e03db",
   "lastOpenFiles": [
+    "Pasted image 20230627105959.png",
+    "Learning Folder/Python/Codespace/A taste of Python.md",
     "Learning Folder/Python/Codespace/python-environments/postBuild",
     "Learning Folder/Python/Codespace/python-environments/geo-python-teacher.yml",
     "Learning Folder/Python/Codespace/python-environments/geo-python-student.yml",
@@ -198,9 +191,7 @@
     "python-environments/README.md",
     "python-environments/LICENSE",
     "python-environments",
-    "Learning Folder/Python/Codespace/Exercise_1.ipynb",
     "Jobs and PhDs/Relevant Informations.md",
-    "Learning Folder/Python/Codespace/A taste of Python.md",
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
     "Learning Folder/Python/Codespace/README..md",
     "Learning Folder/Google Data Analytics Course/Untitled.md",
