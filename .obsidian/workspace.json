@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenting Myself- A journey to become PhD/2023-06-27.md",
+                "file": "Documenting Myself- A journey to become PhD/2023-06-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenting Myself- A journey to become PhD/2023-06-27.md",
+                "file": "Documenting Myself- A journey to become PhD/2023-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documenting Myself- A journey to become PhD/2023-06-27.md",
+                "file": "Documenting Myself- A journey to become PhD/2023-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documenting Myself- A journey to become PhD/2023-06-27.md"
+                "file": "Documenting Myself- A journey to become PhD/2023-06-29.md"
               }
             }
           },
@@ -176,9 +176,9 @@
   },
   "active": "3d2d7ae6a80e0acf",
   "lastOpenFiles": [
+    "Documenting Myself- A journey to become PhD/2023-06-27.md",
+    "Documenting Myself- A journey to become PhD/2023-06-29.md",
     "Documenting Myself- A journey to become PhD/2023-06-26.md",
-    "Documenting Myself- A journey to become PhD/2023-06-27.md",
-    "Documenting Myself- A journey to become PhD/2023-06-27.md",
     "Documenting Myself- A journey to become PhD",
     "Documenting Myself- A journey to become PhD/2023-06-25.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
@@ -213,7 +213,6 @@
     "Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
     "Learning Folder/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "README file.md",
-    "Learning Folder/SQL/Resource and Documentations.md",
-    "Template Folder/Resource and Documentations.md"
+    "Learning Folder/SQL/Resource and Documentations.md"
   ]
 }
