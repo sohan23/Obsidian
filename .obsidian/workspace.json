@@ -11,9 +11,12 @@
             "id": "3d2d7ae6a80e0acf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf"
+                "file": "Mind to Learn Coding Effectively.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
+                "file": "Mind to Learn Coding Effectively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
+                "file": "Mind to Learn Coding Effectively.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf"
+                "file": "Mind to Learn Coding Effectively.md"
               }
             }
           },
@@ -171,8 +174,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d2d7ae6a80e0acf",
+  "active": "63dfc560687c88ef",
   "lastOpenFiles": [
+    "Untitled",
+    "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
     "Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
     "Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
     "Documenting Myself- A journey to become PhD/2023-06-29.md",
@@ -192,7 +197,6 @@
     "Learning Folder/Python/Codespace/python-environments/geo-python-teacher.yml",
     "Learning Folder/Python/Codespace/python-environments/geo-python-student.yml",
     "Learning Folder/Python/Codespace/python-environments/README.md",
-    "Learning Folder/Python/Codespace/python-environments/LICENSE",
     "python-environments/README.md",
     "Jobs and PhDs/Relevant Informations.md",
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
