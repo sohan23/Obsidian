@@ -11,13 +11,8 @@
             "id": "3d2d7ae6a80e0acf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mind to Learn Coding Effectively.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 338.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind to Learn Coding Effectively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind to Learn Coding Effectively.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mind to Learn Coding Effectively.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +165,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "3d2d7ae6a80e0acf",
   "lastOpenFiles": [
+    "Mind to Learn Coding Effectively.md",
     "Untitled",
     "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
     "Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
@@ -195,7 +187,6 @@
     "Pasted image 20230627105959.png",
     "Learning Folder/Python/Codespace/python-environments/postBuild",
     "Learning Folder/Python/Codespace/python-environments/geo-python-teacher.yml",
-    "Learning Folder/Python/Codespace/python-environments/geo-python-student.yml",
     "Learning Folder/Python/Codespace/python-environments/README.md",
     "python-environments/README.md",
     "Jobs and PhDs/Relevant Informations.md",
@@ -204,7 +195,6 @@
     "Learning Folder/Google Data Analytics Course/Untitled.md",
     "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Learning Folder/Introduction to Advanced GIS.md",
-    "Mind to Learn Coding Effectively.md",
     "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
