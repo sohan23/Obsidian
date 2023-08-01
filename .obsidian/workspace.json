@@ -11,8 +11,10 @@
             "id": "3d2d7ae6a80e0acf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf"
+              }
             }
           },
           {
@@ -167,6 +173,8 @@
   },
   "active": "3d2d7ae6a80e0acf",
   "lastOpenFiles": [
+    "Learning Folder/Google Data Analytics Course/Google Generative AI/Additonal Reading.pdf",
+    "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Mind to Learn Coding Effectively.md",
     "Untitled",
     "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
@@ -195,7 +203,6 @@
     "Learning Folder/Google Data Analytics Course/Untitled.md",
     "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Learning Folder/Introduction to Advanced GIS.md",
-    "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
