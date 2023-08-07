@@ -1,10 +1,6 @@
 {
   "showLineNumber": true,
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB-oxendict",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "showFrontmatter": true
 }

@@ -13,11 +13,23 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf"
+                "file": "Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf"
+              }
+            }
+          },
+          {
+            "id": "e5db21e7af8dda7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
+                "file": "Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
+                "file": "Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf"
+                "file": "Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf"
               }
             }
           },
@@ -171,13 +183,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d2d7ae6a80e0acf",
+  "active": "e5db21e7af8dda7e",
   "lastOpenFiles": [
+    "Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
+    "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
     "Learning Folder/Google Data Analytics Course/Google Generative AI/Additonal Reading.pdf",
     "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Mind to Learn Coding Effectively.md",
     "Untitled",
-    "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
     "Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
     "Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
     "Documenting Myself- A journey to become PhD/2023-06-29.md",
@@ -194,7 +207,6 @@
     "Learning Folder/Python/Codespace/Exercise_2.ipynb",
     "Pasted image 20230627105959.png",
     "Learning Folder/Python/Codespace/python-environments/postBuild",
-    "Learning Folder/Python/Codespace/python-environments/geo-python-teacher.yml",
     "Learning Folder/Python/Codespace/python-environments/README.md",
     "python-environments/README.md",
     "Jobs and PhDs/Relevant Informations.md",
@@ -208,7 +220,6 @@
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
     "Untitled 1.canvas",
     "Learning Folder/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md",
-    "Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
     "Learning Folder/Python/Python for GIS/Roadmap to Learning Geospatial Analysis Connecting to Geo-AI.md",
     "README file.md",
     "Learning Folder/SQL/Resource and Documentations.md"
