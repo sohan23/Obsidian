@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d2d7ae6a80e0acf",
+            "id": "9fe120b8b3bc4b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mind to Learn Coding Effectively.md",
+                "file": "Documenting Myself- A journey to become PhD/2023-06-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind to Learn Coding Effectively.md",
+                "file": "Documenting Myself- A journey to become PhD/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind to Learn Coding Effectively.md",
+                "file": "Documenting Myself- A journey to become PhD/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind to Learn Coding Effectively.md"
+                "file": "Documenting Myself- A journey to become PhD/2023-06-26.md"
               }
             }
           },
@@ -175,46 +175,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d2d7ae6a80e0acf",
+  "active": "9fe120b8b3bc4b11",
   "lastOpenFiles": [
-    "Pasted image 20230627105959.png",
-    "README file.md",
-    "Untitled.canvas",
-    "Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
-    "Learning Folder/Google Data Analytics Course/Google Generative AI/Additonal Reading.pdf",
-    "Learning Folder/Google Data Analytics Course/Google Advanced Data Analytics Professional Certificate/~$vanced-Data-Analytics-Certificate-glossary.docx",
-    "Jobs and PhDs/Relevant Informations.md",
-    "Untitled.md",
-    "Jobs and PhDs/Untitled.md",
-    "soudhljsnf.md",
-    "Documenting Myself- A journey to become PhD/2023-06-29.md",
     "Documenting Myself- A journey to become PhD/2023-06-27.md",
+    "Documenting Myself- A journey to become PhD/2023-06-29.md",
+    "GATE-NET-FOREIGN PhD/Untitled.md",
+    "GATE-NET-FOREIGN PhD/Untitled 1.md",
+    "Jobs and PhDs/Relevant Informations.md",
+    "GATE-NET-FOREIGN PhD",
+    "Archieve/Mind to Learn Coding Effectively.md",
+    "Archieve",
+    "Archieve/Pasted image 20230627105959.png",
+    "Archieve/README file.md",
+    "Untitled.canvas",
+    "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
+    "Archieve/Learning Folder/Google Data Analytics Course/Google Generative AI/Additonal Reading.pdf",
+    "Learning Folder/Google Data Analytics Course/Google Advanced Data Analytics Professional Certificate/~$vanced-Data-Analytics-Certificate-glossary.docx",
+    "Untitled.md",
+    "soudhljsnf.md",
     "Documenting Myself- A journey to become PhD/2023-06-26.md",
     "Documenting Myself- A journey to become PhD/2023-06-25.md",
-    "Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
-    "Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
-    "Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
-    "Mind to Learn Coding Effectively.md",
-    "Untitled",
-    "Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
-    "Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
+    "Archieve/Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
+    "Archieve/Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
+    "Archieve/Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
+    "Archieve/Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
+    "Archieve/Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
     "Documenting Myself- A journey to become PhD",
-    "Projects Folder/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
-    "Learning Folder/Python/Codespace/A taste of Python.md",
-    "Learning Folder/Python/Codespace/exercise-2-sohan23/Exercise-2.ipynb",
-    "Learning Folder/Python/Codespace/exercise-1-sohan23/Exercise_1.ipynb",
-    "Learning Folder/Python/Codespace/exercise-1-sohan23",
-    "Learning Folder/Python/Codespace/exercise-2-sohan23",
-    "Learning Folder/Python/Codespace/python-environments/README.md",
+    "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
+    "Archieve/Learning Folder/Python/Codespace/A taste of Python.md",
+    "Archieve/Learning Folder/Python/Codespace/exercise-2-sohan23/Exercise-2.ipynb",
+    "Archieve/Learning Folder/Python/Codespace/exercise-1-sohan23/Exercise_1.ipynb",
+    "Archieve/Learning Folder/Python/Codespace/exercise-1-sohan23",
+    "Archieve/Learning Folder/Python/Codespace/python-environments/README.md",
     "python-environments/README.md",
-    "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
-    "Learning Folder/Python/Codespace/README..md",
+    "Archieve/Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
+    "Archieve/Learning Folder/Python/Codespace/README..md",
     "Learning Folder/Google Data Analytics Course/Untitled.md",
-    "Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
-    "Learning Folder/Introduction to Advanced GIS.md",
-    "Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
-    "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
-    "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
+    "Archieve/Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
+    "Archieve/Learning Folder/Introduction to Advanced GIS.md",
+    "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
+    "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
     "Untitled 1.canvas"
   ]
 }
