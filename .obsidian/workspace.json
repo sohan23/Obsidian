@@ -11,14 +11,12 @@
             "id": "3d2d7ae6a80e0acf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Mind to Learn Coding Effectively.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Mind to Learn Coding Effectively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Mind to Learn Coding Effectively.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Mind to Learn Coding Effectively.md"
               }
             }
           },
@@ -179,6 +177,8 @@
   },
   "active": "3d2d7ae6a80e0acf",
   "lastOpenFiles": [
+    "Pasted image 20230627105959.png",
+    "README file.md",
     "Untitled.canvas",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
     "Learning Folder/Google Data Analytics Course/Google Generative AI/Additonal Reading.pdf",
@@ -205,7 +205,6 @@
     "Learning Folder/Python/Codespace/exercise-1-sohan23/Exercise_1.ipynb",
     "Learning Folder/Python/Codespace/exercise-1-sohan23",
     "Learning Folder/Python/Codespace/exercise-2-sohan23",
-    "Pasted image 20230627105959.png",
     "Learning Folder/Python/Codespace/python-environments/README.md",
     "python-environments/README.md",
     "Learning Folder/Python/Python for GIS/Courses and Resources for Geospatial Python.md",
@@ -216,7 +215,6 @@
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island.md",
     "Projects Folder/Project UHI and its relation to Electricity Consumption/Urban Heat Island and Electricity Energy Consumption.md",
-    "Untitled 1.canvas",
-    "Learning Folder/Python/Python for Deep Learning/Implementing Deep Learning in Geospatial Analysis.md"
+    "Untitled 1.canvas"
   ]
 }
