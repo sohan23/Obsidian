@@ -3,5 +3,7 @@
   "promptDelete": false,
   "spellcheckLanguages": null,
   "showFrontmatter": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/",
+  "showUnsupportedFiles": true
 }
