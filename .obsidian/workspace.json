@@ -11,8 +11,10 @@
             "id": "9fe120b8b3bc4b11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf"
+              }
             }
           }
         ],
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf"
+              }
             }
           },
           {
@@ -166,11 +172,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "9fe120b8b3bc4b11",
   "lastOpenFiles": [
+    "Jobs and PhDs/Relevant Informations.md",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
+    "GATE & FOREIGN PhD/Foreign PhD",
     "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geomatics Engineering (Code- GE).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Syllabus/Unconfirmed 699467.crdownload",
-    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Syllabus/Unconfirmed 728758.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Syllabus",
     "GATE & FOREIGN PhD/GATE Exam/New folder",
@@ -178,13 +186,10 @@
     "GATE & FOREIGN PhD/New folder",
     "GATE & FOREIGN PhD/Attachments/PDFs/CSIP-UGC-NET-earth_science_syllabus.pdf",
     "GATE-NET-FOREIGN PhD/Untitled.md",
-    "GATE-NET-FOREIGN PhD/Attachments/PDFs/Unconfirmed 172736.crdownload",
-    "GATE & FOREIGN PhD/Attachments/Images",
     "Documenting Myself- A journey to become PhD/2023-06-26.md",
     "Documenting Myself- A journey to become PhD/2023-06-27.md",
     "Documenting Myself- A journey to become PhD/2023-06-29.md",
     "GATE-NET-FOREIGN PhD/Untitled 1.md",
-    "Jobs and PhDs/Relevant Informations.md",
     "Archieve/Mind to Learn Coding Effectively.md",
     "Archieve/Pasted image 20230627105959.png",
     "Archieve/README file.md",
