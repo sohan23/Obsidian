@@ -11,13 +11,8 @@
             "id": "9fe120b8b3bc4b11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GATE-NET-FOREIGN PhD/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -79,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 266.5
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE-NET-FOREIGN PhD/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE-NET-FOREIGN PhD/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GATE-NET-FOREIGN PhD/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,31 +168,31 @@
   },
   "active": "63dfc560687c88ef",
   "lastOpenFiles": [
-    "GATE-NET-FOREIGN PhD/Attachments/PDFs/CSIP-UGC-NET-earth_science_syllabus.pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geomatics Engineering (Code- GE).pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Unconfirmed 699467.crdownload",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Unconfirmed 728758.crdownload",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus",
+    "GATE & FOREIGN PhD/GATE Exam/New folder",
+    "GATE & FOREIGN PhD/GATE Exam",
+    "GATE & FOREIGN PhD/New folder",
+    "GATE & FOREIGN PhD/Attachments/PDFs/CSIP-UGC-NET-earth_science_syllabus.pdf",
+    "GATE-NET-FOREIGN PhD/Untitled.md",
     "GATE-NET-FOREIGN PhD/Attachments/PDFs/Unconfirmed 172736.crdownload",
-    "GATE-NET-FOREIGN PhD/Attachments/Images",
-    "GATE-NET-FOREIGN PhD/Attachments/PDFs",
-    "GATE-NET-FOREIGN PhD/Attachments",
+    "GATE & FOREIGN PhD/Attachments/Images",
     "Documenting Myself- A journey to become PhD/2023-06-26.md",
     "Documenting Myself- A journey to become PhD/2023-06-27.md",
     "Documenting Myself- A journey to become PhD/2023-06-29.md",
-    "GATE-NET-FOREIGN PhD/Untitled.md",
     "GATE-NET-FOREIGN PhD/Untitled 1.md",
     "Jobs and PhDs/Relevant Informations.md",
-    "GATE-NET-FOREIGN PhD",
     "Archieve/Mind to Learn Coding Effectively.md",
-    "Archieve",
     "Archieve/Pasted image 20230627105959.png",
     "Archieve/README file.md",
     "Untitled.canvas",
-    "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/PDF/169207-ArticleText-475082-1-10-20190130.pdf",
-    "Archieve/Learning Folder/Google Data Analytics Course/Google Generative AI/Additonal Reading.pdf",
-    "Learning Folder/Google Data Analytics Course/Google Advanced Data Analytics Professional Certificate/~$vanced-Data-Analytics-Certificate-glossary.docx",
     "Untitled.md",
     "soudhljsnf.md",
     "Documenting Myself- A journey to become PhD/2023-06-25.md",
     "Archieve/Learning Folder/Python/Python for GIS/Roadmap to Learning Geo-spatial Analysis.md",
-    "Archieve/Learning Folder/Python/PDF/2009 Introduction to Algorithms Third Ed.pdf",
     "Archieve/Learning Folder/Python/Python for GIS/Detailed Map of Python in GIS.md",
     "Archieve/Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
     "Archieve/Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
