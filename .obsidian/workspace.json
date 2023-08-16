@@ -6,7 +6,7 @@
       {
         "id": "6562b6651144bf33",
         "type": "tabs",
-        "dimension": 62.473347547974406,
+        "dimension": 65.51172707889125,
         "children": [
           {
             "id": "9fe120b8b3bc4b11",
@@ -23,7 +23,7 @@
       {
         "id": "ffe2680cd2eae0b4",
         "type": "tabs",
-        "dimension": 37.52665245202559,
+        "dimension": 34.488272921108745,
         "children": [
           {
             "id": "050fe09870dbdd1c",
@@ -195,9 +195,9 @@
   },
   "active": "050fe09870dbdd1c",
   "lastOpenFiles": [
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Lattices.md",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
     "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Lattices.md",
     "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology",
     "GATE & FOREIGN PhD/GATE Exam/Notes",
@@ -233,7 +233,6 @@
     "Archieve/Learning Folder/Python/Codespace/README..md",
     "Learning Folder/Google Data Analytics Course/Untitled.md",
     "Archieve/Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
-    "Archieve/Learning Folder/Introduction to Advanced GIS.md",
     "Untitled 1.canvas"
   ]
 }
