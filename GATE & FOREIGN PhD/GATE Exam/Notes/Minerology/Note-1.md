@@ -12,7 +12,7 @@
 		* A compound cannot easily be split up, whereas the components of a mixture usually be separated by mechanical means.
 		* The properties of a compound are often very different from those of the elements it contains.
 		* *Heat is either given out or absorbed when a compound is formed*.
-* **Minerals** are compounds of their constituent elements, whereas **rocks** are mixtures of their component minerals. For example, rock granite  is a mixture of several minerals, one of which is quartz, $$ \text{SiO}_{2} $$. ![[Note-1#^7ba8aa]]
+* **Minerals** are compounds of their constituent elements, whereas **rocks** are mixtures of their component minerals. For example, rock granite  is a mixture of several minerals, one of which is quartz, $\text{SiO}_{2}$. ![[Note-1#^7ba8aa]]
 ## Atomic Bonding
 There are four main types of bonding in atomic [[lattices]], as follows:
 1. **Ionic** or *heteropolar* bonding between ions of opposite electrical charge.
