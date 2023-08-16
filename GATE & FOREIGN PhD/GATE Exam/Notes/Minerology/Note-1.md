@@ -10,6 +10,7 @@
 	* **Compounds** are pure substances made up of two or more elements. They are formed as a result of *chemical change*, and are different from mere **mixtures** in the following ways.
 		* The constituting elements are combined in definite proportions by weight.
 		* A compound cannot easily be split up, whereas the components of a mixture usually be separated by mechanical means.
+		* The properties of a compound are often very different from those of the elements it contains.
 		* 
 
  
