@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf"
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf"
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf"
               }
             }
           },
@@ -172,19 +172,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63dfc560687c88ef",
+  "active": "9fe120b8b3bc4b11",
   "lastOpenFiles": [
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
+    "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology",
+    "GATE & FOREIGN PhD/GATE Exam/Notes",
     "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/GG-S2-2016-A(gate2016.info).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/Unconfirmed 233315.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/GG-GATE-2017-A (olxam.com).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/Unconfirmed 992864.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/GG-GATE-2018-A (gate2016.info).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/Unconfirmed 230924.crdownload",
-    "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/GG-GATE-2019-A (gate2016.info).pdf",
-    "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/Unconfirmed 229631.crdownload",
-    "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/GG-GATE-2020-A (gate2016.info).pdf",
-    "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/Unconfirmed 880603.crdownload",
-    "GATE & FOREIGN PhD/GATE Exam/Previous Year Exam paper/GG-Geophysics-GATE-2021-A (gate2016.info).pdf",
     "kkkk.md",
     "Untitled.md",
     "Jobs and PhDs/Relevant Informations.md",
@@ -212,7 +212,6 @@
     "Learning Folder/Google Data Analytics Course/Untitled.md",
     "Archieve/Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Archieve/Learning Folder/Introduction to Advanced GIS.md",
-    "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/Datasets to be Used.md",
     "Untitled 1.canvas"
   ]
 }
