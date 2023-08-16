@@ -14,4 +14,8 @@
 		* *Heat is either given out or absorbed when a compound is formed*.
 * **Minerals** are compounds of their constituent elements, whereas **rocks** are mixtures of their component minerals. For example, rock granite  is a mixture of several minerals, one of which is quartz, $\bf{SiO_{2}}$. ![[Note-1#^7ba8aa]]
 ## Atomic Bonding
-There are four main types o 
+There are four main types of bonding in atomic [[lattices]], as follows:
+1. **Ionic** or *heteropolar* bonding between ions of opposite electrical charge.
+2. **Covalent** or *homopolar* bonding, in which atoms share electrons.
+3. **Metallic** bonding, 
+4. **Van er Waals** or *residual* bonding due to weak forces present in all crystals.
