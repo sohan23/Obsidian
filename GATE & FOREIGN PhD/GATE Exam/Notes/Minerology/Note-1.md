@@ -22,11 +22,14 @@ There are four main types of bonding in atomic [[lattices]], as follows:
 
 ## Ion Size and Ionic Radii
 **Goldschmidt's Rule** - 
-![[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf#page=26&selection=114,0,149,17]] 
+[[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf#page=26&selection=114,0,149,17]] 
  1. Ions of similar radii (± 15%) and the same charge will enter into a crystal in amounts proportional to their concentration in the liquid.
  2. When two ions with the same charge compete for a lattice site, the ion of smaller radius will be preferentially incorporated into the growing crystal.
  3. When two ions of the same radius (± 15%) compete for a lattice site, the ion with the higher charge will be preferentially incorporated into a growing crystal. 
 #### Radius Ratio- 
 The Coordination number of an ion can be predicted by determining a ratio, which represents the radius of the cation divided by that of the oxygen anion;  that is ${r_{x}}/{r_{O^{2-}}}$, where x is any cation ($\text{K}^{+},\text{Fe}^{2+},\text{Al}^{3+},\text{etc.}$) 
 ## Ionic Potential and behaviour of ions in magma
-**The *hydration of an ion is proportional to its change and inversely proportional to its radius*; this factor, namely $\text{charge of cation}/\text{radius of cation}$ is called $\text{ionic potential}$ and is denoted by the letter ${\phi}$ **
+**The *hydration of an ion is proportional to its change and inversely proportional to its radius*; this factor, namely $\text{charge of cation}/\text{radius of cation}$ is called $\text{ionic potential}$ and is denoted by the letter ${\phi}$.**
+From the table- 1.7 [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf#page=29&selection=10,0,11,0]] 
+*the values of $\phi$ generally increases with increasing radius size*. For those ions forming tetrahedral complexes, 
+* the higher charge on the central cation, the less likely is the incorporation of the complex into the silicate structure.
