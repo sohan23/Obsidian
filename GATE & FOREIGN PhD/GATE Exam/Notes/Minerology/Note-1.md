@@ -1,3 +1,6 @@
+---
+banner: "![[minerals banner.jpg]]"
+---
 + # Introduction to Minerology
 ## States of Matter
 * Three states can be seen as **solid, liquid, gaseous**.
