@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +193,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e363edb0dc349b8",
+  "active": "050fe09870dbdd1c",
   "lastOpenFiles": [
     "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
