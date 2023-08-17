@@ -19,4 +19,10 @@ There are four main types of bonding in atomic [[lattices]], as follows:
 2. **Covalent** or *homopolar* bonding, in which atoms share electrons.
 3. **Metallic** bonding, [[Note]] 
 4. **Van er Waals** or *residual* bonding due to weak forces present in all crystals.
-5. 
+
+## Ion Size and Ionic Radii
+**Goldschmidt's Rule** - 
+![[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf#page=26&selection=114,0,149,17]] 
+ 1. Ions of similar radii (± 15%) and the same charge will enter into a crystal in amounts proportional to their concentration in the liquid.
+ 2. When two ions with the same charge compete for a lattice site, the ion of smaller radius will be preferentially incorporated into the growing crystal.
+ 3. When two ions of the same radius (± 15%) compete for a lattice site, the ion with the higher charge will be preferentially incorporated into a growing crystal. 

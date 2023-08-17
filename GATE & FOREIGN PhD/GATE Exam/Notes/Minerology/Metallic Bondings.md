@@ -5,4 +5,4 @@ The meta is a mosaic of crystals, each of which is itself composed of closely pa
 2. **Body Centric Cubic Packing**, ex- **Iron**
    * Body Centric Packing ![[bcpbuilt.png]]
 3. **Hexagonal Close Packing**, ex- **Magnesium**
-   * Hexagonal Close Packing example 
+   * Hexagonal Close Packing example ![[hcpbuilt.jpeg]] 
