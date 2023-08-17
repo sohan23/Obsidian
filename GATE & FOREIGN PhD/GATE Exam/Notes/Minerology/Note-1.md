@@ -1,6 +1,6 @@
 ---
 banner: "![[minerals banner.jpg]]"
-banner_y: 0.152
+banner_y: 0.472
 ---
 + # Introduction to Minerology
 ## States of Matter
