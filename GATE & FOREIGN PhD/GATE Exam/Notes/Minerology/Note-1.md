@@ -26,3 +26,5 @@ There are four main types of bonding in atomic [[lattices]], as follows:
  1. Ions of similar radii (± 15%) and the same charge will enter into a crystal in amounts proportional to their concentration in the liquid.
  2. When two ions with the same charge compete for a lattice site, the ion of smaller radius will be preferentially incorporated into the growing crystal.
  3. When two ions of the same radius (± 15%) compete for a lattice site, the ion with the higher charge will be preferentially incorporated into a growing crystal. 
+#### Radius Ratio- 
+The Coordination number of an ion can be predicted by determining a ratio, which represents the radius of the cation divided by that of the oxygen anion;  that is ${r_{x}}/{r_{O^{2-}}}$, where x is any cation ($\text{K}^{+},\text{Fe}^{2+},\text{Al}^{3+},\text{etc.}$) 
