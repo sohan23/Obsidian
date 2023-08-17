@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md"
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md"
               }
             }
           },
@@ -195,8 +196,8 @@
   },
   "active": "050fe09870dbdd1c",
   "lastOpenFiles": [
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
     "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/minerals banner.jpg",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/minerals banner.jpg.crdownload",

@@ -1,5 +1,6 @@
 ---
 banner: "![[minerals banner.jpg]]"
+banner_y: 0.152
 ---
 + # Introduction to Minerology
 ## States of Matter
@@ -35,6 +36,7 @@ The Coordination number of an ion can be predicted by determining a ratio, which
 **The *hydration of an ion is proportional to its change and inversely proportional to its radius*; this factor, namely $\text{charge of cation}/\text{radius of cation}$ is called $\text{ionic potential}$ and is denoted by the letter ${\phi}$.**
 From the table- 1.7 [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf#page=29&selection=10,0,11,0]] 
 *the values of $\phi$ generally increases with increasing radius size*. For those ions forming tetrahedral complexes, 
-* the higher charge on the central cation, the less likely is the incorporation of the complex into the silicate structure.
-* the complexes thus having central cation whose valency is greater than four are concentrated in [[residual phase]]. 
-* those tetrahedral complexes with a central cation larger than that of $\text{Si}^{4+} \text(>0.42\mathring{\mathrm{A}})$ are likely to be incorporated into the silicate structure, and will preferentially be incorporated into the [[residual phase]].
+* The higher charge on the central cation, the ==less likely== is the incorporation of the complex into the silicate structure. The complexes thus having central cation whose valency is greater than four are concentrated in [[residual phase]]. 
+* Those tetrahedral complexes with a central cation larger than that of $\text{Si}^{4+} \text(>0.42\mathring{\mathrm{A}})$ are ==likely== to be incorporated into the silicate structure, and will preferentially be incorporated into the [[residual phase]].
+
+## Oxides, acids and base, and salts
