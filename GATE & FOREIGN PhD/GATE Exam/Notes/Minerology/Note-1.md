@@ -44,4 +44,10 @@ From the table- 1.7 [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-
 ==note==-All silicates ($\text{SiO}_{2}$, etc.), whether oxides are not are dealt and grouped separately called, **silicates**. 
 * Acids - Oxides of *non-metal* reacts with water (most of them) which ==turn blue litmus paper red==, such solution called acidic and is said to contain Acids, and they posses $\text{H}^{+}$.
 * Base - Metal oxides don't dissolve in wate, although a few react to form hydroxides. (having Na, K, Ca as metal cation and $\text{OH}^-$ as anion), which are alkaline in character, turning red litmus paper into blue. these are called bases.
-* Salts - Some salts are deposited from saturated solutions, and contain a definite and constant number of water molecules incorporated into the crystal structure. Such salts are called hydrates, and the attached water is called water of crystallization. Common hydrated minerals include gypsum (CaS04. 2H 2 0 $$) and limonite (FeO(OH). nH 2 0). The water of crystallization can be driven off at a moderate temperature, the anhydrous salt being left behind.
+* Salts - reference [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf#page=32&selection=103,0,131,5]]
+
+## Oxidation and reduction
+A chemical change by which oxygen is added to an element or compound is called **oxidation**. The term **reduction** is applied to a change in which oxygen or other non-metal is taken away from a compound. When oxidation occurs, reduction occurs as well, and the reaction is called a **redox reaction**.
+$$
+\text{2Cu}~+~\text{O}_{2}~\
+$$
