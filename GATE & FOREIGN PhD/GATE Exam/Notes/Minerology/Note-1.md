@@ -29,4 +29,4 @@ There are four main types of bonding in atomic [[lattices]], as follows:
 #### Radius Ratio- 
 The Coordination number of an ion can be predicted by determining a ratio, which represents the radius of the cation divided by that of the oxygen anion;  that is ${r_{x}}/{r_{O^{2-}}}$, where x is any cation ($\text{K}^{+},\text{Fe}^{2+},\text{Al}^{3+},\text{etc.}$) 
 ## Ionic Potential and behaviour of ions in magma
-**The hydration of an ion is proportional to its change and inversely proportional to its radius; this factor namely change of cation/radius of cation is called ionic potential and is denoted by the letter ${\phi}$ **
+**The *hydration of an ion is proportional to its change and inversely proportional to its radius*; this factor, namely $\text{charge of cation}/\text{radius of cation}$ is called $\text{ionic potential}$ and is denoted by the letter ${\phi}$ **
