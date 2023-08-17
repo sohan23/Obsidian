@@ -49,5 +49,11 @@ From the table- 1.7 [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-
 ## Oxidation and reduction
 A chemical change by which oxygen is added to an element or compound is called **oxidation**. The term **reduction** is applied to a change in which oxygen or other non-metal is taken away from a compound. When oxidation occurs, reduction occurs as well, and the reaction is called a **redox reaction**.
 $$
-\text{2Cu}~+~\text{O}_{2}~\
+\text{2Cu}~+~\text{O}_{2}~\longrightarrow~\text{2CuO}~~~or~~~2[\text{Cu}^{2+}~+~\text{O}^{2-}]
 $$
+==Thus, a general rule could be written as follows:==
+*if electrons have been lost by an atom the change is one of oxidation, whereas if electrons have been gained the change is one of reduction*. 
+## Chemical analysis
+1. **Qualitative** - in which the nature of the constituents contained in a compound is determined.
+2. **Qualitative** - in which the proportions of the constituents are determined.
+---
