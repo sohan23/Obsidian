@@ -40,3 +40,7 @@ From the table- 1.7 [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-
 * Those tetrahedral complexes with a central cation larger than that of $\text{Si}^{4+} \text(>0.42\mathring{\mathrm{A}})$ are ==likely== to be incorporated into the silicate structure, and will preferentially be incorporated into the [[residual phase]].
 
 ## Oxides, acids and base, and salts
+* Oxides - Compounds of Oxygen with another element are called oxides, 
+==note==-All silicates ($\text{SiO}_{2}$, etc.), whether oxides are not are dealt and grouped separately called, **silicates**. 
+* Acids - Oxides of *non-metal* reacts with water (most of them) which ==turn blue litmus paper red==, such solution called acidic and is said to contain Acids, and they posses $\text{H}^{+}$.
+* 
