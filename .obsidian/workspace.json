@@ -4,47 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bb359ff70ec01913",
-        "type": "split",
+        "id": "0fa87ced711cd295",
+        "type": "tabs",
+        "dimension": 71.89320388349515,
         "children": [
           {
-            "id": "9acd101a4ba22b27",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "050fe09870dbdd1c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "9fe120b8b3bc4b11",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf"
               }
-            ]
-          },
-          {
-            "id": "6562b6651144bf33",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9fe120b8b3bc4b11",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf"
-                  }
-                }
-              }
-            ],
-            "stacked": true
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "9acd101a4ba22b27",
+        "type": "tabs",
+        "dimension": 28.106796116504857,
+        "children": [
+          {
+            "id": "050fe09870dbdd1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf"
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md"
               }
             }
           },
@@ -199,15 +193,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe120b8b3bc4b11",
+  "active": "050fe09870dbdd1c",
   "lastOpenFiles": [
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note-1.md",
+    "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/minerals banner.jpg",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/minerals banner.jpg.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Lattices.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Metallic Bonds.md",
-    "GATE & FOREIGN PhD/GATE Exam/Books/C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-Springer Netherlands (1989).pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Metallic Bondings.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/hcpbuilt.jpeg",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/hcpbuilt.jpeg.crdownload",
