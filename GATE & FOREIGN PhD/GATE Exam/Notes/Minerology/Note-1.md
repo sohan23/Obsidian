@@ -37,4 +37,4 @@ From the table- 1.7 [[C. D. Gribble (auth.) - Rutley’s Elements of Mineralogy-
 *the values of $\phi$ generally increases with increasing radius size*. For those ions forming tetrahedral complexes, 
 * the higher charge on the central cation, the less likely is the incorporation of the complex into the silicate structure.
 * the complexes thus having central cation whose valency is greater than four are concentrated in [[residual phase]]. 
-* those tetrahedral complexes with a central cation larger than that of $\text{Si}^{4+} (>0.42)$  
+* those tetrahedral complexes with a central cation larger than that of $\text{Si}^{4+} \text(>0.42)$ 
