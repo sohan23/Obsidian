@@ -1,10 +1,11 @@
 {
-  "accentColor": "#8ae8ff",
+  "accentColor": "#00802b",
   "cssTheme": "Things",
-  "theme": "system",
+  "theme": "moonstone",
   "baseFontSize": 18,
   "nativeMenus": true,
   "translucency": false,
   "textFontFamily": "Product Sans",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": []
 }

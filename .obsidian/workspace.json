@@ -4,129 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5090da927e93219a",
+        "id": "cc92044d73fc1c83",
         "type": "tabs",
         "children": [
           {
             "id": "67336ccaed340788",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Introduction to Minerology.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf"
               }
             }
-          },
-          {
-            "id": "c3af3cebcdc5f76e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "df5f156c66048b0f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a2a56ffeff612e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3b7b711e63d0aac9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f7101b4f97bb796",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff53078460d89fd8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c796253048b07375",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bb7a68254c4c42b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "06662ac8e0589028",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4db0bd10bc0c1a3d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9fd9ae8d3fcb7dec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dbff8955baa33220",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "966d5eccbd36b03d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 13,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 368.5110321044922
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -213,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf"
+              }
             }
           },
           {
@@ -289,10 +184,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "966d5eccbd36b03d",
+  "active": "67336ccaed340788",
   "lastOpenFiles": [
+    "GATE & FOREIGN PhD/GATE Exam/Books/Understanding Fossils.pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY_Evol_And_Ani_Dr_P.pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology/Introduction to Palaeontology.md",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/fossil-vector-archeologic-dig-set-260nw-2149205269.webp",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/fossil-vector-archeologic-dig-set-260nw-2149205269.webp.crdownload",
+    "GATE & FOREIGN PhD/GATE Exam/Books/Unconfirmed 275059.crdownload",
+    "GATE & FOREIGN PhD/GATE Exam/Books/Sedimentary_ore_Deposits,_Evaporation.pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Introduction to Minerology.md",
+    "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Metallic Bondings.md",
+    "Archieve/README file.md",
+    "Template Folder/Resource and Documentations.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Lattices.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/residual phase.md",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology/Note.md",
@@ -303,15 +209,8 @@
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/hcpbuilt.jpeg",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/hcpbuilt.jpeg.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/ccpbuilt.webp",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/ccpbuilt.webp.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/bcpbuilt.png",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/bcpbuilt.png.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/ccpbuilt.gif",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/ccpbuilt.gif.crdownload",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/New folder",
-    "GATE & FOREIGN PhD/GATE Exam/Syllabus/Geology and Geophysics (Code- GG).pdf",
-    "GATE & FOREIGN PhD/GATE Exam/Notes/Minerology",
     "kkkk.md",
     "Untitled.md",
     "Jobs and PhDs/Relevant Informations.md",
@@ -322,7 +221,6 @@
     "GATE-NET-FOREIGN PhD/Untitled 1.md",
     "Archieve/Mind to Learn Coding Effectively.md",
     "Archieve/Pasted image 20230627105959.png",
-    "Archieve/README file.md",
     "Untitled.canvas",
     "soudhljsnf.md",
     "Documenting Myself- A journey to become PhD/2023-06-25.md",
@@ -331,8 +229,6 @@
     "Archieve/Learning Folder/Python/Codespace/exercise-2-sohan23/README.md",
     "Archieve/Learning Folder/Python/Codespace/exercise-1-sohan23/README.md",
     "Archieve/Projects Folder/Project UHI and its relation to Electricity Consumption/Electricity Consumption.md",
-    "Archieve/Learning Folder/Python/Codespace/A taste of Python.md",
-    "Archieve/Learning Folder/Python/Codespace/python-environments/README.md",
     "Archieve/Learning Folder/Python GIS and Machine Learning Environment Diagram.canvas",
     "Untitled 1.canvas"
   ]

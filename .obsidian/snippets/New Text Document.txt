@@ -1,0 +1,13 @@
+{
+  "things-style@@default-font-color": true,
+  "things-style@@text-highlight-bg-l": "#F5FF00",
+  "things-style@@text-highlight-bg-d": "#F5FF00",
+  "things-style@@strong-color": "#A300D1",
+  "things-style@@em-color": "#003CB7",
+  "things-style@@quote-color": "#3EB4BF",
+  "things-style@@code-color-d": "#555E68",
+  "things-style@@tag-background-color-l": "#A0DFC6",
+  "things-style@@tag-font-color-l": "#005232",
+  "things-style@@tag-background-color-d": "#1D694B",
+  "things-style@@tag-font-color-d": "#FFFFFF"
+}
