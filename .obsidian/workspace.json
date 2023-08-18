@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "cc92044d73fc1c83",
+        "id": "3bcbd028f7486e12",
         "type": "tabs",
+        "dimension": 53.27829043224867,
         "children": [
           {
             "id": "67336ccaed340788",
@@ -14,6 +15,26 @@
               "type": "pdf",
               "state": {
                 "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc92044d73fc1c83",
+        "type": "tabs",
+        "dimension": 46.72170956775133,
+        "children": [
+          {
+            "id": "a46dbb8f701ad952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology/Introduction to Palaeontology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922
+    "width": 368.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "433ec92950321ac6",
@@ -104,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology/Introduction to Palaeontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf",
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology/Introduction to Palaeontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf"
+                "file": "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology/Introduction to Palaeontology.md"
               }
             }
           },
@@ -184,12 +206,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "67336ccaed340788",
+  "active": "a46dbb8f701ad952",
   "lastOpenFiles": [
-    "GATE & FOREIGN PhD/GATE Exam/Books/Understanding Fossils.pdf",
     "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY Evol And Ani Dr. P.C. Jain And Dr. M.S. Anantharaman edited.pdf",
-    "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY_Evol_And_Ani_Dr_P.pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Paleontology/Introduction to Palaeontology.md",
+    "GATE & FOREIGN PhD/GATE Exam/Books/Understanding Fossils.pdf",
+    "GATE & FOREIGN PhD/GATE Exam/Books/PALAEONTOLOGY_Evol_And_Ani_Dr_P.pdf",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/fossil-vector-archeologic-dig-set-260nw-2149205269.webp",
     "GATE & FOREIGN PhD/GATE Exam/Notes/Attachments/fossil-vector-archeologic-dig-set-260nw-2149205269.webp.crdownload",
     "GATE & FOREIGN PhD/GATE Exam/Books/Unconfirmed 275059.crdownload",
